@@ -1,0 +1,10 @@
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\bin\Debug\interfacegrafica.exe.config
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\bin\Debug\interfacegrafica.exe
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\bin\Debug\interfacegrafica.pdb
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\obj\Debug\interfacegrafica.csprojAssemblyReference.cache
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\obj\Debug\interfacegrafica.Form1.resources
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\obj\Debug\interfacegrafica.Properties.Resources.resources
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\obj\Debug\interfacegrafica.csproj.GenerateResource.cache
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\obj\Debug\interfacegrafica.csproj.CoreCompileInputs.cache
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\obj\Debug\interfacegrafica.exe
+C:\Users\REGINALDOLOPESSILVAJ\Desktop\interfacegrafica\interfacegrafica\obj\Debug\interfacegrafica.pdb
